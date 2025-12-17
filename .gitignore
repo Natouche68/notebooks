@@ -13,3 +13,5 @@ wheels/
 */.ipynb_checkpoints/*
 .virtual_documents
 */.virtual_documents/*
+
+media
